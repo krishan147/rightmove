@@ -1,0 +1,1 @@
+from packages.rightmove_webscraper_master.rightmove_webscraper import RightmoveData
